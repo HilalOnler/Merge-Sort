@@ -38,6 +38,7 @@ Artık: [16], [11, 21], [8], [12, 22]
 İkinci birleştirme:
 [16] ve [11, 21] birleştirilip sıralanır → [11, 16, 21]
 [8] ve [12, 22] birleştirilip sıralanır → [8, 12, 22]
+Artık: [11, 16, 21] , [8, 12, 22]
 
 Son birleştirme:
 [11, 16, 21] ve [8, 12, 22] birleştirilip sıralanır → [8, 11, 12, 16, 21, 22]
